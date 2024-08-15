@@ -8,4 +8,6 @@ Smooth UI: Uses RecyclerView and Glide for efficient image loading.
 Seamless Viewing: Opens articles in Chrome Custom Tabs.
 Tech Stack
 Kotlin, RecyclerView, Glide, Volley, Chrome Custom Tabs
+<br>
+<br>
 <img width="565" alt="Screenshot 2024-03-15 021112" src="https://github.com/user-attachments/assets/758a87cd-f91b-4135-93fc-ba49e1b62128">
